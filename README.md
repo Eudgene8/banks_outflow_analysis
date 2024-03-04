@@ -18,6 +18,7 @@
 - sklearn.preprocessing
 - sklearn.cluster
 - sklearn.metrics
+- проверка статистических гипотез
 
 **Общий вывод:**
 
