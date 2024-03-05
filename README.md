@@ -18,6 +18,7 @@ __Цель исследования:__ Проанализировать клие
 - sklearn.preprocessing
 - sklearn.cluster
 - sklearn.metrics
+- проверка статистических гипотез
 
 **Общий вывод:**
 
